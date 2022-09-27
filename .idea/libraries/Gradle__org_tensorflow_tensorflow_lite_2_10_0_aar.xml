@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite:2.10.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2bad84742eec0f47c66b4658bdf4b1b2/transformed/tensorflow-lite-2.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2bad84742eec0f47c66b4658bdf4b1b2/transformed/tensorflow-lite-2.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2bad84742eec0f47c66b4658bdf4b1b2/transformed/tensorflow-lite-2.10.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
